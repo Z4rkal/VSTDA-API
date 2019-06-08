@@ -1,13 +1,13 @@
 {
   "name": "vstd-api",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A backend implementation for a future project at San Diego Code School",
   "main": "index.js",
   "scripts": {
     "test": "mocha test --exit",
     "start": "node server/index.js"
   },
-  "author": "",
+  "author": "Olivia Reed",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
